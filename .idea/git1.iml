@@ -4,7 +4,7 @@
     <exclude-output />
     1
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="inheritedJdk" />1
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
